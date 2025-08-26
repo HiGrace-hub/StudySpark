@@ -1,6 +1,3 @@
-
-Yes 👍 I’ve located the README.md we created earlier for StudySpark. Here’s the full version you can copy directly into your new repository ⬇️
-
 StudySpark – AI-Powered Study Assistant
 
 📌 Overview
